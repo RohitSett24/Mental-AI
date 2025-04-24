@@ -1,0 +1,2501 @@
+academic_performance,bullied,has_close_friends,sports_participation,mental_health_condition
+Average,False,False,True,Depression
+Poor,False,False,True,Bipolar
+Excellent,True,True,True,OCD
+Average,True,True,True,Panic Disorder
+Average,False,True,True,PTSD
+Poor,False,True,False,Anxiety
+Excellent,True,True,False,PTSD
+Excellent,False,True,False,Bipolar
+Average,True,True,False,Stress
+Good,False,False,True,PTSD
+Average,True,True,True,Depression
+Average,False,True,False,Stress
+Average,False,True,True,Bipolar
+Average,False,True,False,PTSD
+Poor,True,True,False,Panic Disorder
+Excellent,True,True,False,ADD
+Poor,False,True,False,Anxiety
+Poor,False,True,True,PTSD
+Poor,False,True,True,Panic Disorder
+Average,True,True,False,ADD
+Good,False,True,True,ADD
+Excellent,False,False,False,PTSD
+Good,False,True,True,OCD
+Poor,True,True,False,PTSD
+Poor,False,True,False,Bipolar
+Good,True,False,False,ADD
+Good,True,False,True,Anxiety
+Good,False,True,True,Bipolar
+Poor,True,True,False,Depression
+Poor,False,False,True,Stress
+Excellent,False,True,False,PTSD
+Excellent,False,True,False,OCD
+Poor,False,True,False,Anxiety
+Good,True,False,False,OCD
+Good,False,False,True,OCD
+Excellent,False,True,False,OCD
+Poor,True,True,False,PTSD
+Excellent,False,True,True,Anxiety
+Excellent,True,True,False,Anxiety
+Average,True,False,True,ADD
+Average,False,True,True,OCD
+Average,True,True,True,ADD
+Good,False,True,False,ADD
+Poor,False,True,True,Stress
+Poor,False,True,False,PTSD
+Poor,True,True,False,PTSD
+Poor,True,True,True,Bipolar
+Average,True,True,True,Panic Disorder
+Good,False,True,False,ADD
+Good,False,True,True,PTSD
+Average,True,True,False,OCD
+Good,False,False,True,Panic Disorder
+Average,True,False,True,Depression
+Poor,False,False,False,OCD
+Average,False,True,True,Anxiety
+Poor,False,False,True,PTSD
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,PTSD
+Average,False,True,False,Bipolar
+Excellent,False,True,False,ADD
+Average,True,True,True,Depression
+Average,False,True,False,PTSD
+Excellent,False,True,False,Bipolar
+Excellent,False,True,True,Bipolar
+Average,False,True,True,Depression
+Good,False,True,False,OCD
+Poor,False,True,False,OCD
+Excellent,False,False,False,OCD
+Poor,True,False,False,Stress
+Good,True,True,True,ADD
+Good,True,True,False,Panic Disorder
+Good,True,True,False,ADD
+Excellent,False,False,False,OCD
+Good,True,True,True,Depression
+Excellent,False,True,True,Stress
+Good,False,True,True,ADD
+Poor,True,True,False,OCD
+Poor,False,True,True,Stress
+Average,False,False,True,Panic Disorder
+Poor,False,True,True,Depression
+Average,False,True,True,OCD
+Poor,False,False,False,Panic Disorder
+Excellent,True,False,False,Anxiety
+Poor,False,True,False,Panic Disorder
+Average,False,True,True,PTSD
+Average,False,True,False,Depression
+Good,True,False,True,Panic Disorder
+Excellent,False,True,True,Panic Disorder
+Poor,True,False,True,Bipolar
+Good,True,True,True,Bipolar
+Poor,True,True,True,Panic Disorder
+Poor,False,True,False,Panic Disorder
+Good,False,True,False,Depression
+Good,False,True,False,Bipolar
+Good,False,True,True,ADD
+Good,False,True,True,Depression
+Good,False,False,True,Anxiety
+Poor,False,True,False,Depression
+Good,False,True,False,OCD
+Excellent,True,True,False,OCD
+Average,False,True,True,Stress
+Good,False,True,False,Bipolar
+Good,False,True,True,Panic Disorder
+Poor,False,False,False,PTSD
+Good,False,True,False,Bipolar
+Good,False,True,False,ADD
+Good,False,True,False,Depression
+Poor,False,True,True,PTSD
+Good,True,True,False,PTSD
+Average,False,False,False,Panic Disorder
+Poor,False,False,True,Panic Disorder
+Average,True,True,True,Bipolar
+Poor,False,True,True,PTSD
+Good,False,True,True,PTSD
+Average,False,True,True,OCD
+Poor,True,True,False,Anxiety
+Excellent,False,True,True,Panic Disorder
+Good,False,True,True,Depression
+Poor,True,True,False,Bipolar
+Excellent,True,True,False,Panic Disorder
+Poor,False,True,False,OCD
+Excellent,True,True,True,ADD
+Good,False,True,False,Panic Disorder
+Average,False,False,False,ADD
+Excellent,True,True,True,Stress
+Poor,False,True,True,PTSD
+Good,False,True,False,PTSD
+Excellent,False,False,False,Bipolar
+Poor,False,True,False,Anxiety
+Poor,False,True,False,Anxiety
+Poor,True,True,False,Bipolar
+Excellent,False,True,False,Bipolar
+Excellent,False,False,True,OCD
+Excellent,True,True,True,ADD
+Average,False,False,True,Bipolar
+Excellent,False,False,False,ADD
+Excellent,False,False,False,Panic Disorder
+Excellent,True,True,False,Panic Disorder
+Average,False,True,True,Stress
+Excellent,False,True,False,ADD
+Poor,True,True,True,OCD
+Excellent,True,True,True,Panic Disorder
+Poor,True,True,False,PTSD
+Poor,False,True,False,PTSD
+Poor,False,True,False,Panic Disorder
+Average,False,False,True,Panic Disorder
+Average,False,True,True,Panic Disorder
+Average,True,False,True,ADD
+Excellent,False,True,True,PTSD
+Poor,False,False,False,PTSD
+Average,True,True,False,Depression
+Average,True,True,False,Panic Disorder
+Excellent,True,False,True,Stress
+Average,False,True,False,Panic Disorder
+Excellent,False,False,True,OCD
+Good,False,True,False,OCD
+Average,False,True,True,PTSD
+Good,False,True,True,Panic Disorder
+Excellent,False,True,False,Anxiety
+Poor,False,True,False,OCD
+Average,True,True,True,Panic Disorder
+Excellent,True,True,True,Stress
+Poor,True,True,False,Bipolar
+Poor,True,False,True,Panic Disorder
+Good,False,False,True,Stress
+Excellent,False,True,True,PTSD
+Poor,True,True,True,PTSD
+Average,True,True,False,Depression
+Average,False,True,False,ADD
+Good,False,False,False,OCD
+Poor,False,False,False,ADD
+Excellent,False,True,True,Panic Disorder
+Average,True,True,True,ADD
+Poor,True,True,True,OCD
+Poor,False,False,True,OCD
+Good,False,True,True,Panic Disorder
+Average,True,True,False,PTSD
+Average,False,True,False,OCD
+Excellent,False,True,True,Anxiety
+Average,False,True,False,Anxiety
+Excellent,False,False,False,Bipolar
+Average,False,True,False,OCD
+Good,False,True,False,Depression
+Average,False,True,False,Bipolar
+Excellent,True,True,False,PTSD
+Excellent,True,True,False,OCD
+Good,False,True,False,Anxiety
+Average,False,True,True,Depression
+Average,True,True,True,Panic Disorder
+Good,False,True,False,Bipolar
+Average,False,True,True,Depression
+Average,True,False,True,OCD
+Excellent,False,True,False,Stress
+Average,False,True,True,Depression
+Average,False,True,False,Depression
+Good,True,True,False,PTSD
+Good,False,True,False,Anxiety
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,OCD
+Average,False,True,False,Depression
+Average,False,True,False,OCD
+Poor,False,False,False,Anxiety
+Average,False,False,True,PTSD
+Excellent,False,True,True,OCD
+Poor,True,True,False,ADD
+Excellent,False,False,True,Anxiety
+Poor,False,False,False,Anxiety
+Poor,False,True,True,Panic Disorder
+Good,True,True,True,Bipolar
+Excellent,False,True,True,PTSD
+Average,False,True,True,PTSD
+Average,False,True,False,Panic Disorder
+Excellent,True,True,False,ADD
+Average,False,True,True,OCD
+Average,False,True,False,Stress
+Excellent,True,True,True,ADD
+Poor,False,True,False,Bipolar
+Excellent,False,True,True,PTSD
+Poor,False,True,False,Anxiety
+Average,False,True,False,PTSD
+Average,False,False,False,ADD
+Average,False,True,False,Stress
+Good,False,True,False,Depression
+Poor,False,True,False,Depression
+Good,False,True,False,Panic Disorder
+Good,False,False,False,PTSD
+Excellent,False,True,False,PTSD
+Good,False,True,True,Bipolar
+Excellent,False,True,False,PTSD
+Excellent,False,True,True,Stress
+Good,False,False,False,PTSD
+Poor,True,False,True,OCD
+Poor,False,True,False,ADD
+Poor,True,True,True,Panic Disorder
+Poor,False,False,True,Stress
+Poor,False,False,True,Bipolar
+Good,False,True,False,OCD
+Good,False,True,True,OCD
+Average,False,True,True,ADD
+Poor,False,False,False,Depression
+Good,True,True,False,Stress
+Average,False,True,True,ADD
+Poor,True,True,True,OCD
+Excellent,True,True,True,Bipolar
+Average,False,True,False,ADD
+Good,False,True,True,Depression
+Excellent,False,True,True,OCD
+Excellent,False,True,True,ADD
+Excellent,False,True,True,Stress
+Average,False,True,False,Depression
+Good,False,True,True,Stress
+Excellent,False,False,True,Stress
+Poor,True,True,True,Stress
+Excellent,False,True,True,ADD
+Excellent,False,True,True,Depression
+Average,False,True,False,ADD
+Average,False,True,False,ADD
+Good,False,True,False,ADD
+Poor,False,True,False,OCD
+Average,False,True,False,PTSD
+Excellent,False,True,True,Anxiety
+Good,False,True,False,OCD
+Excellent,False,True,False,Depression
+Excellent,True,True,False,Anxiety
+Average,True,True,False,Anxiety
+Good,True,True,True,Anxiety
+Poor,False,False,False,PTSD
+Poor,False,False,False,ADD
+Average,True,True,False,Panic Disorder
+Average,False,True,True,Bipolar
+Good,True,True,True,Depression
+Poor,False,True,True,Panic Disorder
+Poor,False,True,False,PTSD
+Poor,True,False,True,PTSD
+Excellent,False,True,True,Bipolar
+Poor,True,False,False,Anxiety
+Excellent,True,True,True,ADD
+Good,False,True,False,Bipolar
+Excellent,False,True,True,Panic Disorder
+Good,False,True,False,Panic Disorder
+Poor,False,True,False,Bipolar
+Poor,False,True,False,PTSD
+Good,False,True,False,Depression
+Average,True,False,True,Stress
+Good,False,True,True,ADD
+Average,True,False,True,Panic Disorder
+Excellent,True,False,False,Panic Disorder
+Excellent,False,True,False,Bipolar
+Excellent,True,True,True,ADD
+Poor,False,True,False,Bipolar
+Excellent,False,False,True,Anxiety
+Average,True,True,False,ADD
+Excellent,False,True,False,Anxiety
+Good,True,True,True,Panic Disorder
+Good,False,True,True,PTSD
+Poor,False,True,True,Anxiety
+Good,False,True,False,ADD
+Average,False,True,False,OCD
+Excellent,True,False,True,ADD
+Poor,False,True,True,Bipolar
+Excellent,False,False,True,Anxiety
+Excellent,False,True,False,Depression
+Average,False,False,False,OCD
+Good,False,True,True,PTSD
+Good,True,True,False,Stress
+Excellent,True,True,False,Bipolar
+Poor,False,False,True,Bipolar
+Good,False,True,True,Depression
+Poor,False,False,False,Stress
+Good,False,False,False,Panic Disorder
+Poor,False,True,True,Stress
+Average,True,True,True,PTSD
+Poor,False,True,True,PTSD
+Average,True,True,False,OCD
+Average,False,False,True,Panic Disorder
+Poor,False,True,True,Bipolar
+Average,False,True,False,Anxiety
+Excellent,True,False,False,PTSD
+Average,False,True,True,Depression
+Good,False,False,True,Depression
+Poor,False,True,False,Depression
+Excellent,True,True,True,ADD
+Poor,False,True,True,Panic Disorder
+Good,False,True,False,Panic Disorder
+Good,True,True,True,PTSD
+Good,True,True,False,PTSD
+Average,True,True,False,Depression
+Average,False,True,True,Panic Disorder
+Poor,False,True,True,Panic Disorder
+Poor,False,True,False,PTSD
+Excellent,True,True,False,ADD
+Excellent,False,True,False,Anxiety
+Poor,False,True,False,Anxiety
+Average,False,True,True,OCD
+Good,False,True,False,Panic Disorder
+Poor,True,True,True,Bipolar
+Excellent,False,True,True,Anxiety
+Average,False,True,True,OCD
+Poor,False,False,True,Stress
+Poor,False,True,False,Bipolar
+Average,False,True,True,Panic Disorder
+Poor,False,True,True,Anxiety
+Average,True,True,True,ADD
+Good,True,False,False,Stress
+Average,False,True,False,OCD
+Average,False,True,True,Anxiety
+Average,True,True,True,Panic Disorder
+Poor,True,True,True,Anxiety
+Poor,True,True,False,PTSD
+Average,False,True,False,Stress
+Poor,True,True,False,Anxiety
+Excellent,False,True,False,Depression
+Excellent,True,True,True,ADD
+Poor,False,True,False,PTSD
+Poor,True,True,False,PTSD
+Average,False,True,True,Anxiety
+Good,True,False,True,ADD
+Poor,False,True,False,PTSD
+Excellent,True,False,False,Bipolar
+Average,False,True,True,Stress
+Poor,False,True,False,Bipolar
+Excellent,False,True,False,OCD
+Excellent,False,True,True,Bipolar
+Good,False,True,True,ADD
+Average,False,True,True,Depression
+Average,False,True,False,PTSD
+Good,False,False,True,ADD
+Good,False,True,True,PTSD
+Average,False,True,False,Panic Disorder
+Average,False,True,False,Depression
+Poor,False,True,True,PTSD
+Poor,True,True,True,Bipolar
+Good,False,True,True,Panic Disorder
+Poor,False,False,False,Panic Disorder
+Excellent,True,True,False,OCD
+Poor,False,True,True,Panic Disorder
+Poor,True,True,False,Panic Disorder
+Excellent,False,False,False,Anxiety
+Good,True,True,False,Depression
+Excellent,False,True,False,Bipolar
+Poor,False,True,True,ADD
+Good,False,True,True,Bipolar
+Poor,False,True,False,Bipolar
+Excellent,False,True,False,Anxiety
+Excellent,False,True,False,Stress
+Poor,True,True,True,PTSD
+Average,False,True,False,PTSD
+Average,True,True,False,ADD
+Excellent,False,True,True,Panic Disorder
+Excellent,False,True,True,OCD
+Average,False,True,False,ADD
+Average,False,True,False,Stress
+Poor,False,True,True,PTSD
+Poor,False,False,False,OCD
+Average,True,False,True,ADD
+Poor,False,True,True,OCD
+Poor,True,True,False,Bipolar
+Good,False,True,False,Depression
+Poor,False,True,False,Bipolar
+Excellent,False,True,False,Anxiety
+Poor,True,True,True,Panic Disorder
+Poor,False,True,False,PTSD
+Average,True,True,True,OCD
+Excellent,False,True,True,ADD
+Poor,True,True,True,Panic Disorder
+Poor,False,True,True,Depression
+Good,False,True,True,ADD
+Poor,False,False,True,PTSD
+Poor,False,False,True,OCD
+Good,False,True,True,OCD
+Average,False,True,False,Bipolar
+Poor,False,True,True,Depression
+Good,False,True,True,Depression
+Excellent,False,True,False,PTSD
+Average,False,True,False,OCD
+Excellent,False,True,False,Panic Disorder
+Excellent,True,True,True,Depression
+Good,False,True,False,Depression
+Poor,True,True,True,ADD
+Good,False,True,True,PTSD
+Good,False,True,True,Bipolar
+Good,False,False,False,ADD
+Good,False,True,True,ADD
+Average,False,True,True,Stress
+Poor,False,False,True,Anxiety
+Excellent,False,False,False,Stress
+Excellent,True,True,False,Depression
+Poor,False,False,True,OCD
+Excellent,True,True,False,Anxiety
+Poor,False,True,False,Anxiety
+Excellent,False,True,False,OCD
+Good,False,True,True,Anxiety
+Excellent,False,True,False,OCD
+Poor,False,True,True,Anxiety
+Poor,True,True,False,ADD
+Poor,False,True,True,Panic Disorder
+Poor,False,True,True,PTSD
+Poor,False,True,True,PTSD
+Average,False,True,False,Stress
+Average,False,True,True,ADD
+Excellent,True,True,False,Anxiety
+Poor,False,False,True,Bipolar
+Excellent,False,True,False,OCD
+Poor,True,True,False,ADD
+Poor,False,True,False,Anxiety
+Average,True,True,False,PTSD
+Average,True,True,False,PTSD
+Good,True,True,True,OCD
+Average,False,True,False,Bipolar
+Good,False,True,True,Anxiety
+Good,False,False,False,Anxiety
+Good,False,True,False,Bipolar
+Good,False,True,True,Bipolar
+Good,False,False,True,Bipolar
+Excellent,False,True,True,PTSD
+Average,True,True,False,OCD
+Good,False,True,False,ADD
+Poor,True,True,False,Panic Disorder
+Average,False,True,False,Bipolar
+Average,False,True,False,OCD
+Good,True,True,True,Stress
+Excellent,True,True,True,Anxiety
+Good,False,True,False,Anxiety
+Excellent,False,True,False,Panic Disorder
+Poor,True,True,False,Panic Disorder
+Average,False,False,True,Depression
+Poor,True,True,True,Stress
+Excellent,False,True,True,ADD
+Excellent,False,True,True,Panic Disorder
+Poor,True,True,True,Bipolar
+Excellent,True,True,False,Bipolar
+Poor,True,True,True,ADD
+Average,False,False,False,PTSD
+Poor,True,False,True,Stress
+Average,False,True,False,Bipolar
+Poor,True,True,True,Panic Disorder
+Excellent,False,True,True,Depression
+Poor,False,True,True,OCD
+Excellent,False,True,False,Anxiety
+Poor,False,True,False,Stress
+Poor,False,True,True,Anxiety
+Good,False,True,True,OCD
+Excellent,False,True,False,Stress
+Good,False,False,True,Panic Disorder
+Excellent,True,True,True,OCD
+Good,False,True,False,Bipolar
+Average,False,True,False,ADD
+Poor,True,True,True,Bipolar
+Excellent,False,True,True,Panic Disorder
+Excellent,False,True,False,ADD
+Poor,False,True,True,Bipolar
+Excellent,False,True,True,OCD
+Excellent,False,True,False,OCD
+Good,True,True,False,OCD
+Excellent,False,True,True,Anxiety
+Average,False,False,False,Panic Disorder
+Average,True,True,False,OCD
+Poor,True,True,True,Bipolar
+Excellent,False,True,False,Depression
+Poor,True,False,True,Panic Disorder
+Average,False,True,True,OCD
+Excellent,True,True,False,Depression
+Excellent,True,True,True,ADD
+Poor,True,True,True,Bipolar
+Average,False,True,True,OCD
+Excellent,False,True,True,Anxiety
+Poor,False,False,False,Anxiety
+Average,False,True,False,ADD
+Poor,True,True,False,Depression
+Good,False,True,True,PTSD
+Excellent,False,True,True,Anxiety
+Good,False,False,True,Panic Disorder
+Average,True,True,True,Anxiety
+Good,False,True,True,Anxiety
+Good,True,True,False,Bipolar
+Average,False,True,False,Anxiety
+Poor,False,True,False,Stress
+Good,False,True,True,OCD
+Poor,False,False,False,ADD
+Good,False,False,True,Anxiety
+Poor,False,True,True,PTSD
+Average,False,False,False,Panic Disorder
+Good,False,True,False,PTSD
+Average,False,True,True,Anxiety
+Good,False,True,True,Anxiety
+Average,False,True,True,Stress
+Average,False,True,False,Anxiety
+Good,False,True,True,Anxiety
+Good,True,True,False,OCD
+Good,False,True,True,PTSD
+Excellent,True,True,True,Stress
+Poor,False,True,True,PTSD
+Excellent,False,True,False,Stress
+Excellent,False,True,True,PTSD
+Average,False,True,False,Anxiety
+Good,False,True,False,PTSD
+Poor,False,False,False,PTSD
+Average,False,True,False,Stress
+Excellent,True,True,False,ADD
+Good,False,False,False,Depression
+Average,True,True,False,Stress
+Good,False,True,True,Stress
+Average,False,True,True,Stress
+Good,False,False,True,Bipolar
+Excellent,True,True,True,ADD
+Poor,True,True,True,Bipolar
+Excellent,False,True,False,Bipolar
+Poor,True,True,True,Stress
+Good,True,True,True,Depression
+Average,True,True,False,Stress
+Excellent,False,True,True,Anxiety
+Poor,False,False,True,Depression
+Excellent,False,True,True,Bipolar
+Poor,True,True,True,Panic Disorder
+Excellent,False,False,True,PTSD
+Poor,False,True,False,PTSD
+Poor,False,True,False,ADD
+Good,True,True,True,Panic Disorder
+Poor,True,False,True,OCD
+Good,True,True,True,ADD
+Poor,False,True,False,Depression
+Average,False,False,True,Bipolar
+Average,True,True,True,Depression
+Average,True,False,False,Depression
+Poor,True,False,True,PTSD
+Good,False,True,True,Stress
+Good,True,True,True,Anxiety
+Poor,False,True,False,OCD
+Average,False,True,False,Bipolar
+Average,False,True,False,Depression
+Good,True,True,True,OCD
+Average,True,False,False,Depression
+Excellent,False,True,False,Panic Disorder
+Good,False,True,False,PTSD
+Average,False,False,True,Anxiety
+Good,False,False,False,PTSD
+Excellent,True,True,True,OCD
+Good,False,False,True,Bipolar
+Good,False,True,False,Depression
+Good,True,False,True,Anxiety
+Good,False,True,False,Panic Disorder
+Excellent,False,True,True,PTSD
+Poor,False,True,False,Panic Disorder
+Good,False,True,False,OCD
+Good,False,True,False,PTSD
+Average,False,True,True,Depression
+Good,True,True,True,Depression
+Average,False,False,False,Panic Disorder
+Poor,False,True,True,Bipolar
+Excellent,True,True,False,Anxiety
+Excellent,False,True,False,Stress
+Poor,False,True,True,PTSD
+Excellent,False,False,True,Depression
+Poor,False,False,True,OCD
+Poor,False,True,False,PTSD
+Poor,True,True,True,Bipolar
+Excellent,True,True,True,Bipolar
+Average,True,True,True,Depression
+Poor,False,False,False,Depression
+Good,False,True,True,Panic Disorder
+Excellent,True,True,True,Depression
+Poor,False,True,False,Panic Disorder
+Poor,False,True,False,ADD
+Good,False,False,False,Stress
+Average,False,True,True,Depression
+Average,True,True,True,PTSD
+Average,False,True,False,PTSD
+Poor,False,True,True,Panic Disorder
+Poor,False,True,False,ADD
+Poor,False,True,False,ADD
+Excellent,False,True,True,Anxiety
+Good,False,True,False,OCD
+Poor,True,True,False,Depression
+Good,False,True,True,Panic Disorder
+Good,False,True,False,PTSD
+Average,False,True,True,ADD
+Excellent,True,True,True,PTSD
+Poor,True,True,True,PTSD
+Average,True,True,False,ADD
+Average,False,True,False,Stress
+Poor,False,True,False,ADD
+Good,True,True,True,ADD
+Average,False,True,False,OCD
+Good,False,True,True,Panic Disorder
+Excellent,False,True,False,Panic Disorder
+Good,False,True,True,ADD
+Excellent,False,True,True,Bipolar
+Good,False,False,True,Panic Disorder
+Average,True,True,False,Panic Disorder
+Average,False,True,True,Panic Disorder
+Excellent,False,True,False,ADD
+Poor,False,True,True,PTSD
+Excellent,False,True,True,Depression
+Excellent,False,True,True,PTSD
+Good,True,False,False,OCD
+Good,False,True,False,Bipolar
+Excellent,True,False,True,ADD
+Average,True,True,True,Stress
+Good,False,True,True,Anxiety
+Poor,False,True,False,ADD
+Good,True,True,True,Depression
+Good,False,True,False,Anxiety
+Poor,False,True,False,Stress
+Excellent,True,True,True,OCD
+Poor,False,False,True,OCD
+Excellent,False,False,False,Stress
+Excellent,False,True,False,PTSD
+Excellent,True,True,True,Stress
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,Panic Disorder
+Average,False,True,True,ADD
+Poor,True,True,True,Depression
+Average,False,True,True,Panic Disorder
+Excellent,True,True,False,Bipolar
+Good,False,False,True,ADD
+Excellent,True,True,True,ADD
+Average,False,False,True,ADD
+Average,False,True,False,Anxiety
+Poor,False,True,False,Anxiety
+Good,True,True,True,OCD
+Poor,False,True,True,ADD
+Average,False,True,False,PTSD
+Excellent,False,True,True,Panic Disorder
+Good,False,True,True,OCD
+Excellent,False,True,True,Depression
+Excellent,False,True,True,Stress
+Good,False,True,True,Anxiety
+Poor,False,True,False,ADD
+Excellent,False,True,False,Depression
+Average,False,True,True,OCD
+Excellent,False,True,False,OCD
+Good,True,False,True,Anxiety
+Good,False,True,True,OCD
+Good,False,True,False,PTSD
+Poor,False,True,False,OCD
+Excellent,True,True,True,Bipolar
+Poor,False,True,True,Panic Disorder
+Poor,False,True,False,Stress
+Good,False,True,False,OCD
+Good,True,True,False,Panic Disorder
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,Bipolar
+Average,False,True,True,Depression
+Poor,False,False,True,OCD
+Excellent,False,True,False,PTSD
+Good,False,True,True,Depression
+Good,True,True,True,Panic Disorder
+Excellent,False,True,False,Panic Disorder
+Average,False,False,True,ADD
+Good,True,True,True,OCD
+Good,True,False,False,Anxiety
+Good,False,False,False,Bipolar
+Excellent,False,True,False,Bipolar
+Poor,False,True,True,Anxiety
+Good,False,True,False,Stress
+Poor,False,False,False,Panic Disorder
+Average,False,True,True,ADD
+Good,True,True,True,PTSD
+Good,False,True,False,Bipolar
+Average,False,True,True,Depression
+Good,True,True,False,Panic Disorder
+Poor,True,True,True,PTSD
+Excellent,False,False,True,Bipolar
+Poor,False,False,True,ADD
+Excellent,False,False,False,Stress
+Excellent,False,True,True,ADD
+Poor,False,True,False,Depression
+Poor,False,True,False,ADD
+Poor,False,True,False,PTSD
+Poor,False,True,False,Panic Disorder
+Average,True,True,False,Depression
+Good,False,True,True,Panic Disorder
+Excellent,False,False,False,Anxiety
+Poor,False,True,False,OCD
+Poor,False,True,True,Anxiety
+Poor,False,True,True,PTSD
+Average,True,True,False,OCD
+Poor,False,True,True,Anxiety
+Poor,False,False,False,OCD
+Poor,True,False,True,Bipolar
+Good,True,False,True,ADD
+Average,False,False,False,Depression
+Poor,True,True,True,OCD
+Excellent,False,True,True,Bipolar
+Excellent,True,True,False,ADD
+Excellent,False,True,True,ADD
+Average,True,True,False,Stress
+Average,False,True,False,Panic Disorder
+Excellent,False,True,False,Anxiety
+Poor,False,True,True,Stress
+Average,True,True,True,Panic Disorder
+Excellent,False,True,False,Panic Disorder
+Excellent,False,True,False,PTSD
+Poor,False,True,False,Bipolar
+Good,True,True,False,Stress
+Average,True,True,True,Stress
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,ADD
+Excellent,False,True,True,Bipolar
+Poor,False,True,True,ADD
+Average,False,True,False,Depression
+Good,True,True,True,OCD
+Good,False,True,True,PTSD
+Excellent,True,True,True,PTSD
+Average,False,True,False,Anxiety
+Good,False,True,False,ADD
+Average,False,True,False,OCD
+Average,True,True,False,Panic Disorder
+Excellent,True,True,True,Anxiety
+Good,True,True,False,PTSD
+Poor,True,True,True,OCD
+Excellent,True,True,True,Stress
+Good,False,True,False,Depression
+Good,True,True,False,Panic Disorder
+Good,True,True,True,Stress
+Good,False,True,True,Depression
+Good,False,True,False,Panic Disorder
+Average,False,True,True,ADD
+Excellent,True,True,True,Bipolar
+Average,False,False,True,Anxiety
+Poor,True,True,True,Anxiety
+Good,True,True,False,Bipolar
+Excellent,False,True,True,OCD
+Good,True,True,True,Bipolar
+Excellent,False,True,False,ADD
+Average,False,True,False,PTSD
+Excellent,False,True,True,Bipolar
+Poor,False,False,True,Depression
+Poor,True,True,True,PTSD
+Excellent,False,True,False,Bipolar
+Excellent,False,False,False,Anxiety
+Excellent,False,True,False,Stress
+Excellent,False,False,False,Depression
+Poor,True,True,False,ADD
+Good,False,False,False,Depression
+Excellent,True,True,True,Panic Disorder
+Excellent,False,True,True,OCD
+Poor,False,False,False,Stress
+Poor,True,True,True,Depression
+Average,False,True,True,Panic Disorder
+Excellent,True,True,False,Bipolar
+Average,False,True,True,Depression
+Poor,False,True,False,Depression
+Poor,False,True,False,Depression
+Good,False,True,True,OCD
+Excellent,False,True,False,Depression
+Average,True,True,True,Depression
+Poor,True,True,True,OCD
+Poor,True,True,False,Panic Disorder
+Average,True,True,False,PTSD
+Good,False,True,False,Stress
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,False,ADD
+Poor,True,True,True,PTSD
+Excellent,False,True,False,Anxiety
+Average,False,False,True,OCD
+Excellent,True,True,False,OCD
+Average,False,True,True,Depression
+Excellent,False,True,True,Depression
+Average,True,True,True,ADD
+Excellent,False,False,False,Anxiety
+Good,False,True,False,Depression
+Excellent,True,True,False,Bipolar
+Excellent,False,False,True,Depression
+Good,False,True,True,Depression
+Poor,False,True,True,Bipolar
+Poor,False,True,False,Anxiety
+Excellent,False,True,True,Bipolar
+Good,False,False,False,OCD
+Excellent,False,False,False,Bipolar
+Average,True,True,False,Stress
+Average,False,True,False,OCD
+Excellent,False,False,False,Depression
+Poor,False,True,False,ADD
+Poor,True,True,True,OCD
+Excellent,False,False,False,Anxiety
+Excellent,True,True,True,Anxiety
+Average,True,True,True,Bipolar
+Poor,True,True,True,OCD
+Excellent,False,False,True,Depression
+Average,False,True,True,Anxiety
+Poor,False,True,True,PTSD
+Good,True,True,False,Depression
+Average,False,True,True,PTSD
+Poor,False,True,False,Stress
+Poor,False,True,True,PTSD
+Average,True,True,False,Panic Disorder
+Good,False,True,False,Anxiety
+Average,False,False,False,Bipolar
+Poor,False,True,False,Stress
+Excellent,True,False,True,OCD
+Excellent,True,True,False,Depression
+Average,False,True,True,Anxiety
+Poor,False,True,True,Stress
+Excellent,False,True,False,Stress
+Poor,False,False,True,Panic Disorder
+Average,True,True,False,Anxiety
+Excellent,False,True,False,OCD
+Poor,False,True,True,OCD
+Excellent,False,True,True,Bipolar
+Average,False,True,True,ADD
+Poor,False,True,False,PTSD
+Excellent,True,True,False,OCD
+Average,False,True,True,Panic Disorder
+Excellent,True,True,True,Bipolar
+Excellent,False,True,False,PTSD
+Good,False,True,False,Stress
+Good,False,True,True,Anxiety
+Average,False,True,True,OCD
+Good,False,True,False,Bipolar
+Average,False,True,True,Stress
+Good,False,True,True,OCD
+Excellent,True,False,False,Depression
+Average,False,True,False,ADD
+Average,False,True,True,Stress
+Excellent,False,False,True,Panic Disorder
+Average,False,False,True,Panic Disorder
+Average,False,True,True,OCD
+Good,True,False,False,Panic Disorder
+Average,False,True,True,Stress
+Poor,True,True,False,Anxiety
+Excellent,True,True,False,Anxiety
+Good,True,True,True,ADD
+Good,False,True,True,Anxiety
+Poor,False,True,False,PTSD
+Excellent,True,True,False,Depression
+Excellent,False,False,False,Anxiety
+Good,False,False,True,Panic Disorder
+Average,True,True,False,Depression
+Good,False,False,False,Anxiety
+Excellent,False,False,False,PTSD
+Poor,False,True,True,Panic Disorder
+Good,False,True,False,Stress
+Excellent,False,True,False,OCD
+Good,False,False,True,OCD
+Average,False,True,True,Anxiety
+Good,False,True,True,OCD
+Good,True,True,True,Anxiety
+Excellent,False,True,True,Anxiety
+Excellent,False,True,False,Panic Disorder
+Excellent,True,True,True,ADD
+Good,True,True,True,Bipolar
+Average,False,False,False,Bipolar
+Poor,False,False,True,ADD
+Poor,False,True,True,Bipolar
+Excellent,False,False,False,Depression
+Excellent,True,True,False,Bipolar
+Good,False,True,False,Anxiety
+Poor,True,True,False,PTSD
+Excellent,False,False,True,PTSD
+Average,False,False,False,Stress
+Average,False,True,True,Panic Disorder
+Excellent,False,False,False,Bipolar
+Excellent,False,True,True,PTSD
+Poor,False,True,False,Bipolar
+Poor,False,True,False,Panic Disorder
+Good,False,True,False,Stress
+Poor,False,True,True,PTSD
+Average,False,False,True,Anxiety
+Average,False,True,False,Depression
+Excellent,False,True,False,ADD
+Poor,True,True,True,ADD
+Good,False,True,False,ADD
+Average,False,False,False,Bipolar
+Average,True,True,True,PTSD
+Good,True,True,False,Panic Disorder
+Good,True,False,False,Panic Disorder
+Average,False,True,True,PTSD
+Average,False,True,True,Stress
+Good,False,True,False,Anxiety
+Average,False,True,False,OCD
+Excellent,False,True,True,PTSD
+Excellent,False,True,False,Depression
+Good,False,False,False,Stress
+Poor,False,False,False,PTSD
+Good,False,True,True,PTSD
+Good,False,True,False,Stress
+Poor,True,False,True,Stress
+Poor,False,True,True,Bipolar
+Poor,False,True,True,PTSD
+Excellent,False,True,True,OCD
+Average,True,False,False,Depression
+Excellent,True,True,True,Anxiety
+Average,False,True,False,Anxiety
+Excellent,True,True,True,OCD
+Average,False,False,True,Panic Disorder
+Excellent,True,True,False,Stress
+Poor,False,False,False,Stress
+Good,False,True,True,Panic Disorder
+Excellent,False,True,False,Stress
+Average,False,True,True,Panic Disorder
+Poor,True,True,True,PTSD
+Excellent,True,False,False,Panic Disorder
+Excellent,False,True,False,Stress
+Poor,False,True,True,Stress
+Excellent,False,True,False,PTSD
+Good,False,True,False,Panic Disorder
+Excellent,False,True,True,PTSD
+Good,False,True,False,OCD
+Good,False,False,False,Bipolar
+Poor,True,True,False,PTSD
+Excellent,False,True,True,Depression
+Poor,False,True,False,Stress
+Excellent,False,True,True,Bipolar
+Excellent,True,True,False,Anxiety
+Average,False,False,False,OCD
+Excellent,False,True,True,Panic Disorder
+Poor,False,True,False,Bipolar
+Good,False,True,False,PTSD
+Excellent,False,False,False,Stress
+Average,False,True,True,Stress
+Poor,True,True,True,Stress
+Excellent,False,True,False,Bipolar
+Poor,True,True,True,Stress
+Average,False,True,False,PTSD
+Average,False,True,True,Panic Disorder
+Poor,True,True,True,Bipolar
+Excellent,False,True,True,Stress
+Good,True,False,True,Anxiety
+Average,False,True,False,Anxiety
+Excellent,False,True,True,Depression
+Excellent,False,True,True,Stress
+Good,True,True,True,Stress
+Average,False,True,False,Bipolar
+Average,False,True,True,Bipolar
+Excellent,False,True,False,ADD
+Excellent,False,True,False,Panic Disorder
+Good,True,False,False,Stress
+Good,False,True,False,Depression
+Average,True,False,False,Panic Disorder
+Poor,False,True,False,Stress
+Average,False,True,True,Panic Disorder
+Excellent,True,True,True,PTSD
+Average,True,True,True,Bipolar
+Poor,True,True,False,Stress
+Good,False,True,False,Panic Disorder
+Poor,False,False,False,Bipolar
+Poor,False,False,True,Stress
+Poor,True,True,False,OCD
+Good,True,True,True,Bipolar
+Poor,False,True,True,Panic Disorder
+Poor,True,True,True,Depression
+Poor,False,True,True,OCD
+Excellent,False,False,False,PTSD
+Poor,False,True,True,Stress
+Good,False,True,True,ADD
+Poor,False,True,False,PTSD
+Poor,True,True,False,Bipolar
+Good,True,True,False,OCD
+Poor,True,True,True,PTSD
+Good,False,True,False,Depression
+Poor,True,True,False,ADD
+Good,False,True,True,Bipolar
+Poor,False,False,False,OCD
+Poor,False,True,True,PTSD
+Excellent,False,True,True,OCD
+Excellent,True,True,False,OCD
+Poor,False,True,False,PTSD
+Poor,False,True,True,Anxiety
+Average,True,False,False,Stress
+Good,True,True,False,Panic Disorder
+Average,False,True,False,Bipolar
+Excellent,False,True,True,Bipolar
+Excellent,False,True,False,ADD
+Excellent,False,False,True,ADD
+Excellent,False,False,False,ADD
+Poor,False,True,True,Bipolar
+Excellent,False,True,True,OCD
+Poor,False,True,False,ADD
+Poor,False,False,True,PTSD
+Excellent,False,True,True,Stress
+Excellent,False,False,True,Depression
+Good,False,True,False,Bipolar
+Average,False,True,True,PTSD
+Excellent,False,True,False,Stress
+Good,False,False,True,Stress
+Good,False,False,True,Anxiety
+Average,False,True,True,Panic Disorder
+Poor,True,True,True,PTSD
+Excellent,False,True,True,Bipolar
+Average,True,True,True,ADD
+Excellent,False,True,False,OCD
+Good,False,True,False,ADD
+Good,False,False,True,Stress
+Poor,False,True,True,Stress
+Good,False,False,False,Depression
+Good,False,True,True,ADD
+Average,False,True,True,Panic Disorder
+Excellent,False,True,False,Panic Disorder
+Excellent,True,True,False,Anxiety
+Average,True,True,False,Panic Disorder
+Poor,False,True,True,Stress
+Excellent,False,True,True,Stress
+Good,True,True,False,Panic Disorder
+Excellent,True,True,True,OCD
+Good,True,True,False,OCD
+Poor,False,False,False,Panic Disorder
+Average,False,False,True,Depression
+Excellent,False,True,False,PTSD
+Average,True,True,False,Depression
+Excellent,False,True,False,Depression
+Good,True,False,True,Panic Disorder
+Average,True,True,True,OCD
+Excellent,False,True,True,ADD
+Good,True,True,True,ADD
+Average,True,True,False,Panic Disorder
+Average,True,True,True,ADD
+Excellent,True,True,True,PTSD
+Excellent,True,True,True,OCD
+Excellent,False,True,False,Panic Disorder
+Good,False,True,True,Anxiety
+Excellent,False,True,True,Bipolar
+Average,False,False,True,Bipolar
+Average,True,True,False,Panic Disorder
+Excellent,False,False,True,Panic Disorder
+Excellent,False,True,False,Anxiety
+Poor,True,True,False,ADD
+Average,False,False,True,Bipolar
+Good,True,True,False,PTSD
+Poor,False,False,True,Panic Disorder
+Excellent,False,True,False,OCD
+Excellent,False,False,False,Bipolar
+Average,False,True,True,PTSD
+Excellent,False,True,True,OCD
+Good,False,True,True,Panic Disorder
+Average,True,False,False,PTSD
+Excellent,True,False,True,Anxiety
+Average,False,False,False,Panic Disorder
+Excellent,False,False,True,Depression
+Excellent,False,True,False,Anxiety
+Excellent,False,True,True,Bipolar
+Good,False,True,False,OCD
+Good,False,True,True,PTSD
+Average,False,True,False,Bipolar
+Excellent,False,True,True,Bipolar
+Excellent,False,True,True,Panic Disorder
+Good,False,True,True,Depression
+Excellent,True,True,False,ADD
+Good,False,True,True,Bipolar
+Excellent,True,True,False,Depression
+Average,True,True,True,OCD
+Excellent,True,True,False,OCD
+Excellent,False,True,False,PTSD
+Poor,False,True,False,ADD
+Good,True,True,True,Depression
+Excellent,False,True,True,Anxiety
+Excellent,False,True,True,OCD
+Poor,False,True,True,Panic Disorder
+Poor,True,True,False,ADD
+Good,False,True,False,PTSD
+Poor,False,False,False,Anxiety
+Average,True,False,True,OCD
+Poor,True,True,False,OCD
+Average,False,True,True,PTSD
+Good,False,True,False,PTSD
+Good,False,True,True,Stress
+Good,False,False,True,Panic Disorder
+Good,False,True,True,Bipolar
+Good,False,True,False,Bipolar
+Average,True,True,False,Anxiety
+Average,False,False,True,Bipolar
+Good,False,True,True,Anxiety
+Poor,False,True,True,ADD
+Excellent,False,True,False,OCD
+Good,False,True,True,Stress
+Poor,True,True,False,Stress
+Excellent,False,True,False,Panic Disorder
+Good,True,False,False,Panic Disorder
+Good,False,False,True,OCD
+Average,True,False,False,PTSD
+Excellent,True,True,False,Panic Disorder
+Excellent,False,False,True,Panic Disorder
+Poor,True,True,False,Depression
+Average,False,True,False,Depression
+Average,False,True,True,Bipolar
+Average,True,True,True,PTSD
+Average,True,True,True,Anxiety
+Excellent,False,True,False,ADD
+Excellent,False,True,True,Stress
+Good,False,False,False,Bipolar
+Good,False,True,False,Panic Disorder
+Average,False,True,False,OCD
+Average,False,True,True,PTSD
+Average,False,True,False,Panic Disorder
+Good,False,True,True,Stress
+Poor,True,True,True,Anxiety
+Poor,False,True,False,Anxiety
+Good,False,True,True,Depression
+Good,False,True,False,Bipolar
+Good,False,False,True,Panic Disorder
+Good,False,True,True,OCD
+Good,False,True,True,Stress
+Good,False,False,False,Panic Disorder
+Average,False,True,False,ADD
+Average,False,True,False,Anxiety
+Average,False,False,True,Panic Disorder
+Average,False,True,True,Stress
+Good,False,True,False,OCD
+Poor,False,True,True,Stress
+Excellent,False,True,True,Bipolar
+Good,False,True,False,Depression
+Excellent,True,True,True,Stress
+Poor,False,True,False,PTSD
+Average,True,True,False,Panic Disorder
+Poor,False,True,True,Depression
+Good,False,True,True,OCD
+Average,True,True,True,Depression
+Good,True,True,False,Stress
+Average,False,True,False,Stress
+Excellent,False,False,True,PTSD
+Excellent,False,True,True,Anxiety
+Excellent,True,True,False,Panic Disorder
+Poor,False,True,False,PTSD
+Good,False,True,True,Stress
+Poor,False,False,True,ADD
+Excellent,False,True,True,Depression
+Good,False,False,False,PTSD
+Excellent,True,True,False,PTSD
+Poor,False,True,True,Panic Disorder
+Poor,False,True,False,ADD
+Poor,False,False,True,ADD
+Excellent,True,True,True,ADD
+Good,False,True,True,Panic Disorder
+Good,True,True,False,Anxiety
+Excellent,False,True,True,Stress
+Good,False,False,False,Stress
+Excellent,False,True,True,OCD
+Good,True,True,True,Panic Disorder
+Average,True,True,True,Anxiety
+Average,False,True,False,OCD
+Poor,True,False,True,OCD
+Average,True,True,False,OCD
+Average,False,True,True,Panic Disorder
+Average,False,False,True,Bipolar
+Excellent,True,True,True,OCD
+Average,False,True,True,PTSD
+Average,True,True,True,Depression
+Poor,False,True,True,PTSD
+Average,False,True,False,PTSD
+Average,False,False,False,Stress
+Good,False,True,True,Bipolar
+Poor,False,True,True,Panic Disorder
+Poor,False,False,True,OCD
+Poor,True,True,True,Stress
+Poor,False,True,True,Anxiety
+Poor,False,True,False,Anxiety
+Poor,False,False,True,Panic Disorder
+Excellent,False,True,True,Stress
+Average,False,True,True,Depression
+Poor,True,False,True,Panic Disorder
+Average,False,True,False,Stress
+Average,False,True,True,Stress
+Excellent,False,False,True,Bipolar
+Poor,False,True,False,Panic Disorder
+Good,False,True,True,Anxiety
+Excellent,False,False,False,Anxiety
+Good,True,True,False,OCD
+Average,True,True,True,PTSD
+Average,True,False,False,Panic Disorder
+Excellent,False,False,True,Stress
+Excellent,True,True,False,Panic Disorder
+Good,False,True,True,Stress
+Poor,False,True,True,Depression
+Good,False,True,False,Panic Disorder
+Excellent,False,True,False,ADD
+Good,True,True,False,ADD
+Excellent,False,True,False,Anxiety
+Good,False,True,True,Depression
+Excellent,False,True,True,Bipolar
+Excellent,False,True,True,OCD
+Excellent,False,True,True,Depression
+Poor,False,True,True,Anxiety
+Good,False,True,False,Bipolar
+Good,False,True,True,Stress
+Good,False,True,True,Bipolar
+Excellent,True,True,True,PTSD
+Good,False,False,False,Panic Disorder
+Good,True,True,False,Depression
+Excellent,False,False,False,Anxiety
+Average,False,True,True,Depression
+Excellent,True,True,False,Stress
+Good,False,False,True,ADD
+Excellent,False,True,False,Stress
+Average,False,True,False,Anxiety
+Excellent,False,True,True,PTSD
+Good,False,True,True,OCD
+Average,True,True,False,Panic Disorder
+Poor,False,True,True,Panic Disorder
+Good,True,True,False,Bipolar
+Average,False,True,True,Bipolar
+Average,True,False,True,Stress
+Poor,False,True,True,Depression
+Excellent,False,True,True,ADD
+Excellent,True,False,True,Depression
+Good,False,True,True,PTSD
+Poor,False,True,False,OCD
+Excellent,False,True,True,Panic Disorder
+Poor,False,True,False,Depression
+Excellent,False,True,False,Panic Disorder
+Average,False,True,False,Bipolar
+Excellent,True,False,True,Panic Disorder
+Poor,True,True,True,ADD
+Average,False,True,True,Panic Disorder
+Average,False,True,False,Depression
+Average,False,True,False,ADD
+Poor,False,False,True,Panic Disorder
+Good,False,True,True,OCD
+Good,False,True,False,Bipolar
+Good,False,False,True,Panic Disorder
+Poor,False,True,False,ADD
+Average,False,True,False,Depression
+Good,False,True,False,Bipolar
+Poor,False,False,True,Stress
+Good,False,True,True,Stress
+Excellent,True,False,False,PTSD
+Good,True,True,False,Stress
+Good,False,True,True,Depression
+Average,False,False,True,OCD
+Poor,False,True,False,Bipolar
+Average,False,True,False,ADD
+Average,True,True,False,Anxiety
+Average,False,True,False,Stress
+Average,False,True,True,Stress
+Average,False,True,True,Anxiety
+Good,False,True,False,ADD
+Average,False,True,False,ADD
+Average,True,True,True,Anxiety
+Poor,False,True,True,ADD
+Excellent,False,True,False,Depression
+Good,False,False,True,ADD
+Good,False,True,True,Bipolar
+Good,True,True,False,ADD
+Average,True,False,False,Panic Disorder
+Average,False,True,False,Panic Disorder
+Average,False,False,True,Stress
+Poor,True,True,False,OCD
+Excellent,True,True,False,Depression
+Average,False,True,False,Depression
+Excellent,True,True,False,ADD
+Poor,False,True,True,OCD
+Good,False,True,True,OCD
+Average,False,True,True,PTSD
+Excellent,True,True,True,OCD
+Excellent,True,True,False,ADD
+Average,False,True,False,ADD
+Good,False,True,False,Anxiety
+Good,False,True,False,Stress
+Good,True,False,True,Panic Disorder
+Poor,False,True,True,PTSD
+Excellent,False,False,True,ADD
+Excellent,False,True,True,Anxiety
+Excellent,False,True,True,PTSD
+Poor,False,True,False,Stress
+Excellent,False,True,False,PTSD
+Poor,True,True,True,Anxiety
+Good,False,True,True,Bipolar
+Average,True,True,False,Panic Disorder
+Excellent,False,True,True,ADD
+Excellent,False,True,False,Panic Disorder
+Good,True,True,False,Stress
+Average,False,True,False,Depression
+Poor,True,False,True,Stress
+Average,False,True,False,Stress
+Good,False,True,True,Stress
+Good,True,True,False,Bipolar
+Average,False,True,True,ADD
+Poor,False,True,True,Anxiety
+Poor,True,True,False,ADD
+Excellent,True,True,False,Depression
+Poor,False,True,False,Anxiety
+Average,False,False,False,PTSD
+Good,False,False,False,PTSD
+Excellent,True,True,True,PTSD
+Excellent,True,True,False,Anxiety
+Good,False,True,False,OCD
+Poor,True,True,False,Bipolar
+Good,True,True,False,OCD
+Poor,True,True,True,ADD
+Good,False,False,False,PTSD
+Average,False,True,True,Bipolar
+Poor,False,True,True,Anxiety
+Average,False,True,False,PTSD
+Excellent,False,True,True,Anxiety
+Good,False,True,False,Bipolar
+Excellent,True,False,True,Anxiety
+Excellent,False,True,True,Anxiety
+Excellent,False,True,False,Depression
+Excellent,False,True,False,ADD
+Good,False,True,False,OCD
+Excellent,False,True,False,Panic Disorder
+Good,True,True,False,OCD
+Good,False,True,True,OCD
+Average,False,False,True,Stress
+Poor,False,True,True,Depression
+Poor,False,True,False,Panic Disorder
+Good,False,True,False,PTSD
+Average,True,True,True,PTSD
+Good,False,True,False,PTSD
+Good,True,True,False,OCD
+Good,False,True,True,ADD
+Average,False,True,True,OCD
+Poor,False,True,False,Panic Disorder
+Average,False,False,False,ADD
+Excellent,False,True,False,Depression
+Average,True,True,True,ADD
+Average,False,True,False,Panic Disorder
+Average,True,False,True,Anxiety
+Average,False,True,True,OCD
+Poor,True,True,False,PTSD
+Excellent,True,True,True,Anxiety
+Poor,False,True,False,OCD
+Poor,True,True,True,Bipolar
+Average,False,True,False,Stress
+Good,False,True,False,OCD
+Good,True,True,True,Bipolar
+Poor,False,True,False,Panic Disorder
+Poor,True,True,True,Depression
+Average,True,True,False,Bipolar
+Poor,False,True,True,Depression
+Average,True,False,True,OCD
+Good,False,False,True,Depression
+Good,True,False,True,Bipolar
+Excellent,True,True,False,ADD
+Good,False,True,True,Stress
+Poor,False,True,True,Anxiety
+Good,True,True,True,Anxiety
+Average,False,True,True,Stress
+Good,True,True,False,PTSD
+Excellent,False,True,False,Anxiety
+Good,False,True,True,Panic Disorder
+Average,False,True,False,OCD
+Average,False,False,False,PTSD
+Poor,False,True,True,OCD
+Good,False,True,False,Bipolar
+Average,False,False,False,Panic Disorder
+Excellent,False,True,False,Bipolar
+Poor,True,True,False,PTSD
+Excellent,False,True,True,PTSD
+Good,False,True,False,Panic Disorder
+Good,False,False,False,Panic Disorder
+Good,False,True,True,PTSD
+Poor,False,True,False,PTSD
+Average,True,True,True,Depression
+Poor,True,True,False,ADD
+Excellent,False,False,False,PTSD
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,ADD
+Poor,False,True,False,PTSD
+Average,False,True,True,Bipolar
+Excellent,False,False,True,OCD
+Good,True,True,True,ADD
+Good,True,True,True,Bipolar
+Poor,False,True,True,Anxiety
+Good,False,True,True,Panic Disorder
+Excellent,True,True,True,Depression
+Good,False,False,False,Depression
+Average,False,True,False,OCD
+Average,False,False,True,PTSD
+Poor,False,True,True,Bipolar
+Excellent,False,True,False,Anxiety
+Average,True,True,True,Bipolar
+Average,False,True,True,Panic Disorder
+Excellent,False,False,True,Panic Disorder
+Good,True,True,False,PTSD
+Good,False,True,False,PTSD
+Poor,False,True,False,Panic Disorder
+Good,False,True,False,Stress
+Excellent,False,True,False,Panic Disorder
+Average,True,True,True,Bipolar
+Good,False,True,False,OCD
+Poor,False,True,True,Bipolar
+Good,False,True,False,Depression
+Excellent,True,True,False,Anxiety
+Poor,False,True,False,ADD
+Good,False,True,True,OCD
+Poor,True,False,True,Stress
+Excellent,True,True,False,Anxiety
+Average,False,True,False,Anxiety
+Excellent,False,True,False,ADD
+Excellent,False,True,True,Depression
+Excellent,False,True,False,Depression
+Excellent,False,True,False,Depression
+Average,False,True,False,OCD
+Average,True,True,False,Bipolar
+Poor,False,True,False,Anxiety
+Good,True,False,False,Bipolar
+Average,False,False,False,Bipolar
+Average,True,True,False,Depression
+Good,True,True,True,Bipolar
+Average,False,False,True,Anxiety
+Excellent,True,True,False,Anxiety
+Excellent,False,False,False,PTSD
+Good,True,True,False,Stress
+Poor,False,False,True,OCD
+Poor,False,True,True,Bipolar
+Good,True,False,False,OCD
+Good,True,True,False,OCD
+Excellent,False,True,True,OCD
+Poor,False,False,True,ADD
+Average,False,True,False,Panic Disorder
+Excellent,False,True,True,PTSD
+Good,False,True,False,OCD
+Poor,True,True,True,Panic Disorder
+Average,False,False,False,Panic Disorder
+Average,False,True,False,PTSD
+Excellent,False,True,False,Anxiety
+Poor,False,True,True,ADD
+Poor,False,True,False,Bipolar
+Good,False,True,True,PTSD
+Poor,False,True,True,Stress
+Poor,False,True,False,Panic Disorder
+Excellent,False,False,False,OCD
+Poor,True,True,False,Panic Disorder
+Average,True,True,True,ADD
+Excellent,False,False,True,Stress
+Excellent,False,True,True,Anxiety
+Good,True,False,False,Anxiety
+Poor,True,True,False,Depression
+Good,True,False,False,OCD
+Average,True,True,False,Depression
+Excellent,False,False,True,ADD
+Excellent,False,True,True,Stress
+Excellent,False,True,True,Panic Disorder
+Average,False,True,True,Bipolar
+Average,True,True,True,Depression
+Good,True,True,False,Anxiety
+Good,False,True,True,OCD
+Good,False,True,False,Panic Disorder
+Poor,False,True,True,Stress
+Excellent,True,True,False,PTSD
+Excellent,False,True,False,ADD
+Good,False,True,False,ADD
+Excellent,False,True,True,Anxiety
+Good,False,True,False,PTSD
+Poor,False,True,False,ADD
+Poor,False,True,True,Bipolar
+Average,True,True,True,Panic Disorder
+Poor,True,False,True,OCD
+Good,True,True,False,Panic Disorder
+Poor,False,True,False,Bipolar
+Average,False,True,False,ADD
+Excellent,False,True,True,Bipolar
+Good,True,True,True,Panic Disorder
+Excellent,False,True,False,ADD
+Average,False,True,True,OCD
+Average,False,True,False,OCD
+Average,False,True,False,PTSD
+Excellent,False,True,True,Bipolar
+Excellent,False,True,False,Stress
+Excellent,True,True,True,PTSD
+Excellent,False,False,False,OCD
+Average,True,True,True,Anxiety
+Average,True,True,False,ADD
+Good,True,False,True,PTSD
+Good,False,True,True,Depression
+Excellent,False,True,False,Stress
+Poor,False,True,True,ADD
+Poor,True,False,False,PTSD
+Average,False,True,True,OCD
+Average,False,True,False,Panic Disorder
+Average,False,True,True,OCD
+Good,False,False,False,Stress
+Good,True,True,True,Depression
+Average,False,True,True,PTSD
+Average,False,False,True,Panic Disorder
+Average,True,True,False,PTSD
+Poor,False,True,True,Bipolar
+Good,False,True,False,Anxiety
+Poor,False,True,False,OCD
+Poor,True,False,True,PTSD
+Average,True,True,False,PTSD
+Average,True,False,True,ADD
+Excellent,False,True,True,ADD
+Excellent,False,True,False,PTSD
+Poor,True,False,False,Depression
+Good,False,True,False,Anxiety
+Average,False,True,True,PTSD
+Average,True,True,True,Stress
+Poor,False,False,True,OCD
+Excellent,False,True,False,Bipolar
+Good,True,True,False,ADD
+Excellent,True,True,False,Stress
+Excellent,False,True,True,OCD
+Excellent,False,True,True,Panic Disorder
+Excellent,False,True,True,ADD
+Average,False,True,True,Depression
+Average,True,True,True,ADD
+Excellent,True,True,False,Anxiety
+Good,False,False,False,Anxiety
+Poor,True,True,False,OCD
+Good,True,False,True,Stress
+Good,False,True,True,Bipolar
+Good,False,True,False,Depression
+Excellent,False,False,True,OCD
+Average,False,True,False,Panic Disorder
+Good,True,True,True,Depression
+Excellent,False,False,True,Anxiety
+Good,True,True,False,PTSD
+Good,False,True,True,PTSD
+Excellent,False,True,False,Bipolar
+Average,False,True,False,Depression
+Average,False,True,True,OCD
+Poor,False,True,True,Bipolar
+Excellent,True,True,False,ADD
+Poor,False,True,False,ADD
+Poor,False,True,True,Panic Disorder
+Poor,True,True,False,Stress
+Average,False,True,True,PTSD
+Excellent,False,True,True,OCD
+Poor,True,True,True,Depression
+Excellent,False,True,True,Bipolar
+Excellent,False,True,True,OCD
+Average,False,True,False,Bipolar
+Poor,False,False,True,Bipolar
+Poor,False,True,True,Bipolar
+Excellent,False,True,True,Depression
+Good,False,True,False,OCD
+Average,True,True,False,Anxiety
+Average,False,False,True,Anxiety
+Average,False,False,True,Depression
+Average,True,True,True,ADD
+Poor,False,True,True,Depression
+Poor,False,False,True,PTSD
+Good,True,False,True,Bipolar
+Average,False,True,True,OCD
+Average,False,True,False,OCD
+Excellent,False,True,True,Stress
+Poor,True,False,False,Stress
+Average,True,True,False,Panic Disorder
+Good,False,True,False,Anxiety
+Good,False,True,True,Stress
+Poor,True,True,True,Stress
+Good,False,True,True,Anxiety
+Good,True,False,False,PTSD
+Poor,False,True,True,ADD
+Average,False,True,False,Anxiety
+Average,False,True,False,ADD
+Good,True,True,True,Panic Disorder
+Good,False,True,False,Stress
+Average,True,True,True,OCD
+Poor,False,True,True,Stress
+Good,False,True,True,Bipolar
+Excellent,True,True,True,Panic Disorder
+Poor,True,True,False,ADD
+Good,False,False,True,ADD
+Good,False,False,True,Bipolar
+Excellent,False,True,False,Bipolar
+Excellent,True,True,False,PTSD
+Average,False,False,True,Depression
+Poor,False,True,False,Bipolar
+Poor,False,False,False,ADD
+Average,False,False,True,OCD
+Poor,False,True,True,ADD
+Poor,False,True,True,ADD
+Poor,False,False,False,PTSD
+Poor,False,True,False,Depression
+Poor,False,True,False,Depression
+Excellent,True,True,True,Bipolar
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,True,Stress
+Poor,False,True,True,ADD
+Average,True,False,False,Anxiety
+Good,True,True,False,Stress
+Excellent,False,True,True,Stress
+Poor,True,True,True,Depression
+Average,False,True,True,Depression
+Good,True,True,True,PTSD
+Excellent,True,False,True,PTSD
+Good,True,False,True,Depression
+Average,True,True,True,OCD
+Excellent,False,True,True,OCD
+Good,True,True,True,Anxiety
+Poor,False,True,True,Depression
+Excellent,False,True,False,Bipolar
+Good,False,True,True,PTSD
+Average,False,False,False,Depression
+Average,False,True,True,OCD
+Excellent,False,True,True,Depression
+Good,True,True,True,OCD
+Excellent,False,True,True,Depression
+Excellent,False,True,False,ADD
+Good,False,True,True,Bipolar
+Good,False,True,False,Panic Disorder
+Poor,False,True,False,Anxiety
+Good,False,True,False,ADD
+Average,False,True,False,Bipolar
+Excellent,False,True,False,OCD
+Excellent,True,True,True,PTSD
+Average,False,False,False,PTSD
+Good,True,True,True,Stress
+Average,False,True,True,Bipolar
+Average,False,True,True,Depression
+Poor,True,True,False,Anxiety
+Average,True,True,False,Depression
+Excellent,True,True,True,Depression
+Average,False,True,False,Bipolar
+Excellent,False,True,True,Panic Disorder
+Excellent,False,False,True,Anxiety
+Excellent,False,True,True,Stress
+Good,False,False,True,ADD
+Poor,False,True,True,Depression
+Excellent,False,True,False,Anxiety
+Excellent,False,False,False,Stress
+Good,False,True,True,ADD
+Excellent,True,True,True,Depression
+Average,False,True,False,Anxiety
+Average,False,True,False,ADD
+Poor,True,True,True,Bipolar
+Excellent,False,True,True,Panic Disorder
+Good,True,False,False,PTSD
+Average,True,True,False,PTSD
+Good,False,False,True,Depression
+Good,True,False,True,Depression
+Average,False,True,False,ADD
+Good,False,True,True,Anxiety
+Average,True,False,False,PTSD
+Good,False,False,True,Depression
+Average,True,True,False,Stress
+Excellent,False,True,True,Depression
+Poor,False,True,True,PTSD
+Average,True,True,False,OCD
+Average,True,True,True,Panic Disorder
+Poor,False,True,False,PTSD
+Average,False,True,True,Stress
+Average,True,True,True,Anxiety
+Good,False,True,True,Stress
+Poor,False,True,False,OCD
+Excellent,False,True,True,OCD
+Average,False,True,True,Depression
+Poor,False,True,True,Depression
+Good,False,True,False,PTSD
+Excellent,False,True,False,Bipolar
+Poor,False,False,True,Panic Disorder
+Excellent,True,True,True,Stress
+Excellent,False,True,False,PTSD
+Excellent,False,True,True,Bipolar
+Average,False,False,False,PTSD
+Average,False,True,False,Panic Disorder
+Good,False,True,False,Panic Disorder
+Good,False,True,True,OCD
+Poor,False,True,False,Depression
+Good,False,True,False,Depression
+Excellent,True,True,False,Panic Disorder
+Excellent,False,True,True,PTSD
+Average,False,True,True,Panic Disorder
+Excellent,True,True,True,Depression
+Poor,False,True,False,Anxiety
+Excellent,False,False,False,PTSD
+Excellent,False,True,True,OCD
+Poor,True,False,True,ADD
+Good,True,True,True,PTSD
+Good,False,True,False,PTSD
+Poor,True,True,False,Depression
+Average,False,False,True,OCD
+Excellent,False,True,True,PTSD
+Poor,True,True,True,Depression
+Excellent,False,True,False,Panic Disorder
+Average,False,True,False,Stress
+Excellent,False,True,False,OCD
+Poor,False,True,True,Bipolar
+Excellent,False,True,False,Anxiety
+Good,False,True,True,Bipolar
+Average,False,True,False,ADD
+Average,False,True,True,Panic Disorder
+Average,False,True,False,OCD
+Poor,False,True,False,PTSD
+Average,False,True,False,Depression
+Good,False,True,False,ADD
+Poor,True,False,True,OCD
+Good,False,False,True,Anxiety
+Excellent,True,False,False,OCD
+Excellent,False,True,True,ADD
+Excellent,False,True,True,Depression
+Excellent,False,True,True,Bipolar
+Good,False,True,False,Stress
+Poor,False,True,True,Bipolar
+Poor,False,True,True,Depression
+Average,False,False,True,ADD
+Good,False,False,True,Depression
+Excellent,False,True,False,Panic Disorder
+Good,False,True,False,Anxiety
+Average,True,True,False,OCD
+Average,False,True,True,Panic Disorder
+Good,False,True,False,OCD
+Good,False,True,False,Bipolar
+Good,True,True,True,ADD
+Poor,False,True,False,Stress
+Excellent,True,True,False,Stress
+Good,False,True,False,Anxiety
+Good,False,True,False,Depression
+Good,False,False,True,Anxiety
+Average,True,True,True,OCD
+Average,False,True,False,PTSD
+Poor,False,True,True,PTSD
+Excellent,False,True,True,PTSD
+Poor,False,False,False,Depression
+Excellent,True,True,False,Anxiety
+Average,False,True,True,Panic Disorder
+Average,False,True,False,ADD
+Average,False,False,False,Bipolar
+Poor,True,True,False,OCD
+Good,False,True,True,PTSD
+Good,False,True,True,ADD
+Average,False,True,True,Stress
+Good,True,True,True,Panic Disorder
+Good,False,True,True,Anxiety
+Poor,True,True,True,OCD
+Excellent,False,False,True,OCD
+Average,True,True,False,Stress
+Average,False,True,True,Panic Disorder
+Poor,False,True,False,Stress
+Poor,False,True,False,Stress
+Good,True,True,True,PTSD
+Average,False,True,False,Panic Disorder
+Excellent,False,True,False,PTSD
+Poor,False,True,True,Anxiety
+Excellent,False,True,False,Stress
+Excellent,True,True,True,Bipolar
+Average,False,True,False,OCD
+Average,True,True,True,Panic Disorder
+Poor,False,True,False,Stress
+Average,True,False,True,Panic Disorder
+Average,False,False,False,OCD
+Average,False,True,True,Depression
+Excellent,False,True,False,ADD
+Poor,False,True,False,Depression
+Good,False,False,True,Stress
+Excellent,False,True,False,OCD
+Average,True,True,True,ADD
+Excellent,False,True,False,Depression
+Average,True,False,True,Stress
+Average,False,True,False,OCD
+Excellent,False,True,False,Stress
+Poor,False,True,True,PTSD
+Average,True,True,True,OCD
+Poor,False,True,True,Depression
+Good,False,True,False,Stress
+Average,False,True,True,Panic Disorder
+Poor,False,True,False,Depression
+Poor,False,True,False,Stress
+Good,True,True,True,Panic Disorder
+Poor,False,True,False,Panic Disorder
+Poor,False,True,True,Anxiety
+Good,True,True,True,Panic Disorder
+Average,True,True,False,Depression
+Poor,True,True,True,Depression
+Poor,False,True,True,Bipolar
+Poor,False,False,False,ADD
+Excellent,True,True,True,PTSD
+Good,False,True,False,Depression
+Excellent,True,True,False,OCD
+Good,False,True,True,ADD
+Average,True,False,True,Panic Disorder
+Average,False,False,False,Stress
+Poor,False,True,True,Anxiety
+Good,False,True,True,OCD
+Average,False,True,False,ADD
+Good,False,True,True,OCD
+Average,False,True,False,OCD
+Excellent,True,True,True,OCD
+Average,True,True,True,ADD
+Excellent,False,True,True,Anxiety
+Average,True,False,False,Panic Disorder
+Poor,True,True,False,Bipolar
+Excellent,False,False,False,PTSD
+Average,False,True,True,Panic Disorder
+Poor,False,True,True,Depression
+Excellent,True,True,True,ADD
+Poor,True,True,True,OCD
+Good,False,True,False,Panic Disorder
+Good,True,True,False,Depression
+Excellent,True,False,True,ADD
+Average,False,True,False,Depression
+Excellent,False,True,True,OCD
+Poor,False,False,False,Bipolar
+Average,True,True,True,ADD
+Good,True,True,True,Depression
+Average,False,True,True,Stress
+Good,True,False,True,Depression
+Average,False,False,False,PTSD
+Average,False,False,True,OCD
+Average,False,True,True,Anxiety
+Poor,False,False,False,Depression
+Poor,True,True,False,Bipolar
+Excellent,False,True,False,Stress
+Excellent,False,True,True,Stress
+Good,False,True,False,Anxiety
+Poor,True,False,False,Panic Disorder
+Good,True,False,True,PTSD
+Excellent,False,True,True,Anxiety
+Good,False,True,True,PTSD
+Excellent,False,True,True,Depression
+Poor,True,False,True,OCD
+Average,False,True,True,Bipolar
+Poor,False,True,False,Stress
+Good,False,True,False,Anxiety
+Good,False,True,False,Bipolar
+Poor,True,True,False,PTSD
+Poor,False,False,True,OCD
+Excellent,True,True,False,Stress
+Good,False,True,False,Stress
+Good,False,True,True,PTSD
+Poor,False,True,False,OCD
+Average,False,False,False,Stress
+Good,True,True,False,OCD
+Average,False,True,False,Stress
+Poor,False,True,True,Depression
+Poor,True,True,True,PTSD
+Excellent,True,True,True,OCD
+Good,False,True,False,Bipolar
+Average,True,True,False,Panic Disorder
+Excellent,False,True,False,Depression
+Good,False,True,True,ADD
+Excellent,False,True,True,Bipolar
+Poor,True,True,False,PTSD
+Good,False,True,False,Stress
+Excellent,False,False,True,ADD
+Excellent,True,False,True,Bipolar
+Average,False,True,False,Depression
+Excellent,False,True,False,ADD
+Good,False,True,True,ADD
+Good,True,True,True,OCD
+Average,False,False,False,Anxiety
+Good,True,True,False,Bipolar
+Poor,True,True,True,Anxiety
+Good,False,False,True,PTSD
+Good,False,False,False,Bipolar
+Excellent,True,True,True,Bipolar
+Excellent,True,True,True,OCD
+Good,True,True,False,Stress
+Average,True,True,True,Depression
+Excellent,True,False,False,Depression
+Average,True,False,True,Depression
+Good,False,True,False,Panic Disorder
+Good,False,True,True,PTSD
+Poor,False,False,True,ADD
+Excellent,False,True,True,Stress
+Good,True,True,False,Anxiety
+Poor,False,True,False,Depression
+Excellent,False,True,True,Panic Disorder
+Good,False,True,False,Anxiety
+Good,False,True,False,Stress
+Excellent,False,True,False,PTSD
+Excellent,False,True,True,Stress
+Excellent,True,True,False,OCD
+Good,False,True,True,ADD
+Good,False,True,True,Depression
+Poor,False,False,False,PTSD
+Average,False,True,False,OCD
+Excellent,True,True,True,Depression
+Good,False,True,True,Stress
+Good,False,False,False,Stress
+Excellent,False,True,False,Panic Disorder
+Average,False,True,True,Bipolar
+Excellent,True,True,False,Bipolar
+Average,False,True,True,Stress
+Good,False,True,True,Stress
+Average,False,True,False,Anxiety
+Poor,False,True,True,Panic Disorder
+Good,False,True,True,ADD
+Poor,False,True,False,Anxiety
+Excellent,True,True,False,ADD
+Excellent,False,True,True,OCD
+Excellent,False,True,False,Bipolar
+Average,False,True,False,Bipolar
+Good,False,True,True,Panic Disorder
+Excellent,False,True,False,Stress
+Excellent,True,False,True,Stress
+Good,False,False,True,OCD
+Excellent,True,True,False,PTSD
+Poor,False,True,False,PTSD
+Good,True,True,True,Panic Disorder
+Good,False,False,True,PTSD
+Good,False,True,True,Bipolar
+Poor,True,True,True,Anxiety
+Good,False,True,True,PTSD
+Poor,False,True,True,Depression
+Good,True,False,False,Panic Disorder
+Average,False,True,True,OCD
+Excellent,False,True,True,PTSD
+Average,False,False,False,Depression
+Excellent,True,True,False,PTSD
+Poor,True,True,True,Anxiety
+Average,True,True,True,Anxiety
+Good,True,False,False,PTSD
+Excellent,True,True,True,Panic Disorder
+Excellent,False,True,True,Panic Disorder
+Average,False,True,False,Depression
+Poor,False,True,True,OCD
+Average,False,True,True,Depression
+Poor,True,True,True,OCD
+Poor,True,True,True,PTSD
+Excellent,False,False,True,OCD
+Average,True,True,False,Stress
+Average,False,True,True,Bipolar
+Poor,False,True,True,ADD
+Average,False,True,True,Bipolar
+Good,False,False,False,Anxiety
+Good,False,True,False,Stress
+Average,False,True,True,Bipolar
+Average,False,True,False,PTSD
+Poor,False,True,True,OCD
+Good,False,True,True,OCD
+Good,False,True,True,Depression
+Excellent,False,True,True,Depression
+Poor,False,True,True,Panic Disorder
+Excellent,False,True,False,OCD
+Good,False,True,True,Panic Disorder
+Poor,True,False,False,PTSD
+Average,False,True,True,OCD
+Poor,False,True,True,Depression
+Average,False,True,True,Bipolar
+Average,True,True,False,Panic Disorder
+Poor,False,True,True,Panic Disorder
+Average,False,False,False,Anxiety
+Excellent,False,True,True,Depression
+Good,False,False,True,PTSD
+Average,False,True,True,Panic Disorder
+Excellent,False,True,True,Bipolar
+Average,False,False,True,Bipolar
+Good,True,True,True,Bipolar
+Excellent,False,False,False,Stress
+Good,True,True,True,Stress
+Good,False,False,False,ADD
+Excellent,True,True,True,Bipolar
+Excellent,True,True,False,Panic Disorder
+Excellent,True,True,False,PTSD
+Poor,True,True,True,OCD
+Excellent,False,True,True,PTSD
+Excellent,False,True,False,Stress
+Excellent,False,True,False,Depression
+Excellent,True,True,True,Panic Disorder
+Average,True,True,True,ADD
+Poor,True,True,False,Stress
+Good,True,True,True,OCD
+Excellent,False,True,False,Anxiety
+Average,True,True,True,ADD
+Average,False,True,True,Stress
+Average,True,True,False,PTSD
+Good,True,False,False,ADD
+Excellent,False,False,True,Panic Disorder
+Poor,False,True,True,PTSD
+Poor,True,True,False,Bipolar
+Average,True,True,False,Bipolar
+Good,False,True,True,Bipolar
+Good,True,True,False,ADD
+Good,True,True,False,Anxiety
+Poor,False,True,False,OCD
+Average,False,True,False,Panic Disorder
+Excellent,False,True,True,ADD
+Poor,False,False,False,Depression
+Average,False,True,False,Panic Disorder
+Average,False,False,True,PTSD
+Excellent,False,False,True,PTSD
+Excellent,False,True,True,ADD
+Excellent,True,True,False,ADD
+Good,False,True,True,OCD
+Excellent,False,False,False,Anxiety
+Average,False,False,False,ADD
+Excellent,False,True,False,Bipolar
+Average,False,True,False,OCD
+Poor,True,True,False,Depression
+Good,False,True,True,Bipolar
+Poor,True,True,False,Depression
+Poor,False,False,True,Stress
+Average,True,True,False,Depression
+Poor,False,True,True,Bipolar
+Average,True,True,False,Stress
+Excellent,False,True,False,Bipolar
+Excellent,False,True,False,PTSD
+Average,True,True,True,Bipolar
+Excellent,False,False,True,Stress
+Good,False,False,False,Depression
+Poor,True,True,True,PTSD
+Good,False,False,False,Anxiety
+Poor,True,True,True,Anxiety
+Excellent,False,True,False,Panic Disorder
+Good,False,True,True,Anxiety
+Excellent,False,True,False,Anxiety
+Poor,False,False,False,OCD
+Average,True,True,True,Anxiety
+Average,True,True,True,Stress
+Good,False,True,True,ADD
+Excellent,False,True,False,Anxiety
+Excellent,False,True,False,Bipolar
+Good,False,True,False,ADD
+Average,False,True,False,Anxiety
+Poor,False,True,True,ADD
+Good,False,False,True,Depression
+Poor,False,True,True,Stress
+Average,False,True,True,Stress
+Excellent,True,True,False,Panic Disorder
+Average,False,True,False,ADD
+Good,False,True,True,Panic Disorder
+Excellent,False,True,False,PTSD
+Good,True,False,False,OCD
+Good,False,True,True,Bipolar
+Average,False,False,True,ADD
+Good,False,False,True,Stress
+Average,True,True,False,Panic Disorder
+Excellent,True,True,False,Depression
+Average,False,True,False,Anxiety
+Excellent,False,False,True,Stress
+Average,False,False,True,Depression
+Poor,False,True,False,Anxiety
+Poor,True,True,False,OCD
+Good,False,True,False,Stress
+Average,True,False,False,Panic Disorder
+Average,False,False,True,Stress
+Excellent,False,True,False,ADD
+Good,False,True,False,ADD
+Average,False,True,True,Depression
+Good,False,True,False,Panic Disorder
+Poor,False,False,True,PTSD
+Average,True,True,True,ADD
+Average,False,True,True,Bipolar
+Good,False,True,True,OCD
+Average,True,False,True,Bipolar
+Good,False,True,True,Stress
+Average,False,True,False,Bipolar
+Excellent,False,True,True,Anxiety
+Good,False,False,True,OCD
+Average,False,False,True,Bipolar
+Poor,True,True,False,Anxiety
+Average,True,True,True,Depression
+Poor,False,True,True,Bipolar
+Poor,False,True,False,OCD
+Excellent,True,True,False,Anxiety
+Good,False,False,False,Bipolar
+Average,False,True,True,Depression
+Excellent,False,False,True,Bipolar
+Average,True,True,False,Anxiety
+Poor,False,True,True,Bipolar
+Good,False,True,True,OCD
+Average,False,True,True,Stress
+Average,False,True,False,Panic Disorder
+Poor,False,True,True,Panic Disorder
+Average,False,True,False,Anxiety
+Average,True,True,False,Anxiety
+Poor,False,True,True,Anxiety
+Excellent,False,False,False,Anxiety
+Poor,False,True,False,Bipolar
+Excellent,True,False,False,OCD
+Good,True,True,True,Panic Disorder
+Excellent,False,True,False,Depression
+Excellent,False,True,True,Panic Disorder
+Good,False,False,False,OCD
+Excellent,False,True,True,Anxiety
+Poor,False,True,True,PTSD
+Excellent,False,True,False,Bipolar
+Good,False,True,False,PTSD
+Poor,False,True,False,Bipolar
+Good,False,True,True,Anxiety
+Good,True,True,True,Bipolar
+Average,False,False,False,Anxiety
+Average,False,True,False,OCD
+Good,True,True,False,ADD
+Good,True,True,True,Stress
+Good,False,True,True,Bipolar
+Average,True,True,False,Anxiety
+Average,True,True,False,PTSD
+Excellent,False,False,True,Anxiety
+Excellent,False,False,False,PTSD
+Good,False,False,False,Panic Disorder
+Poor,True,True,True,Bipolar
+Poor,True,True,True,Depression
+Average,False,True,True,PTSD
+Average,False,True,False,Anxiety
+Average,False,True,True,Bipolar
+Good,False,True,True,Anxiety
+Poor,False,True,False,Depression
+Excellent,True,True,True,Stress
+Good,False,True,True,ADD
+Excellent,True,True,True,ADD
+Excellent,False,True,False,Depression
+Good,False,True,False,OCD
+Excellent,False,True,True,Bipolar
+Poor,True,True,False,Depression
+Excellent,True,False,False,Stress
+Poor,False,True,True,Anxiety
+Poor,True,True,True,Bipolar
+Poor,False,True,True,Panic Disorder
+Average,True,True,True,PTSD
+Excellent,False,False,False,Depression
+Good,False,True,False,Panic Disorder
+Good,False,True,True,Panic Disorder
+Excellent,False,False,True,Stress
+Average,True,True,True,Panic Disorder
+Average,True,True,False,Depression
+Poor,False,True,True,OCD
+Excellent,False,True,False,ADD
+Excellent,False,True,True,ADD
+Good,True,True,False,Bipolar
+Excellent,True,False,False,Anxiety
+Average,True,True,True,Stress
+Excellent,False,True,True,Depression
+Good,True,True,False,Bipolar
+Poor,False,False,True,Depression
+Good,True,False,False,Bipolar
+Good,False,True,True,ADD
+Poor,False,True,False,Panic Disorder
+Good,False,True,True,OCD
+Good,False,True,False,Depression
+Excellent,False,True,False,OCD
+Excellent,False,True,False,PTSD
+Poor,False,True,False,PTSD
+Excellent,False,False,False,Panic Disorder
+Excellent,False,True,True,ADD
+Good,True,False,False,Stress
+Average,False,True,False,OCD
+Excellent,True,True,True,Bipolar
+Average,True,True,False,Stress
+Excellent,False,True,False,Depression
+Excellent,False,True,False,Depression
+Poor,False,True,True,Bipolar
+Poor,False,True,True,Anxiety
+Poor,False,True,True,Panic Disorder
+Average,False,True,True,Anxiety
+Good,True,True,False,Panic Disorder
+Excellent,True,True,True,Depression
+Excellent,False,True,True,Panic Disorder
+Excellent,True,False,False,ADD
+Average,True,True,True,ADD
+Poor,False,True,True,Bipolar
+Good,False,True,True,Anxiety
+Average,False,True,True,OCD
+Poor,False,False,False,Depression
+Average,False,True,False,PTSD
+Good,True,True,False,OCD
+Poor,True,True,True,Bipolar
+Average,False,True,False,PTSD
+Good,False,False,True,OCD
+Excellent,False,True,True,Anxiety
+Good,True,True,True,Panic Disorder
+Excellent,False,True,True,ADD
+Average,False,True,True,Anxiety
+Poor,False,True,True,PTSD
+Poor,False,True,False,Panic Disorder
+Average,False,True,True,Panic Disorder
+Poor,False,False,True,Panic Disorder
+Poor,False,True,True,Stress
+Excellent,False,True,False,ADD
+Average,False,True,True,Depression
+Good,False,False,False,PTSD
+Excellent,False,True,False,Bipolar
+Average,False,True,True,Depression
+Excellent,True,True,True,OCD
+Good,False,True,True,ADD
+Good,False,True,False,Bipolar
+Average,False,True,True,Bipolar
+Good,False,True,True,Anxiety
+Excellent,False,True,True,OCD
+Good,True,True,False,Anxiety
+Excellent,False,False,True,Anxiety
+Excellent,False,False,True,Panic Disorder
+Good,False,True,False,ADD
+Average,False,True,False,Stress
+Poor,False,True,False,Anxiety
+Good,False,True,True,Depression
+Excellent,True,False,False,Bipolar
+Excellent,False,True,False,ADD
+Good,False,True,True,Anxiety
+Average,False,True,False,PTSD
+Average,False,True,True,Depression
+Excellent,False,True,False,OCD
+Excellent,True,True,True,Bipolar
+Average,False,True,False,ADD
+Poor,False,True,True,PTSD
+Good,False,True,False,ADD
+Excellent,False,False,True,ADD
+Excellent,True,True,False,PTSD
+Average,True,False,False,OCD
+Good,False,True,True,PTSD
+Average,False,True,False,Depression
+Good,True,True,False,Panic Disorder
+Good,False,False,True,ADD
+Good,False,False,True,OCD
+Excellent,False,True,False,ADD
+Poor,False,False,True,PTSD
+Average,True,False,True,OCD
+Poor,True,True,True,OCD
+Average,False,True,True,Anxiety
+Good,False,False,True,Anxiety
+Excellent,False,False,True,Panic Disorder
+Poor,False,True,False,Anxiety
+Excellent,False,False,False,PTSD
+Average,False,True,True,Bipolar
+Excellent,False,True,False,Depression
+Excellent,False,True,False,PTSD
+Poor,False,True,False,ADD
+Good,True,True,True,Anxiety
+Excellent,False,True,True,OCD
+Good,True,False,False,PTSD
+Average,False,True,False,OCD
+Excellent,False,True,False,Panic Disorder
+Poor,False,True,False,ADD
+Average,False,True,True,OCD
+Average,True,False,False,OCD
+Poor,True,True,True,Panic Disorder
+Excellent,False,False,True,Stress
+Excellent,True,True,False,Bipolar
+Average,False,True,True,Depression
+Excellent,False,True,True,Depression
+Good,False,True,False,Anxiety
+Poor,False,True,True,Stress
+Good,True,True,False,PTSD
+Excellent,False,True,False,Panic Disorder
+Average,False,True,False,PTSD
+Poor,True,True,True,Depression
+Excellent,False,True,True,Bipolar
+Excellent,True,True,True,OCD
+Average,False,True,True,ADD
+Average,False,False,True,Anxiety
+Good,True,True,False,Bipolar
+Poor,False,True,True,Depression
+Poor,False,False,False,Stress
+Average,False,True,True,Anxiety
+Good,False,True,False,Panic Disorder
+Poor,False,True,False,Depression
+Average,True,True,True,PTSD
+Excellent,False,False,True,Anxiety
+Poor,True,False,False,Panic Disorder
+Good,False,False,False,Depression
+Good,False,True,False,PTSD
+Good,False,True,True,ADD
+Excellent,False,True,True,PTSD
+Poor,True,True,False,OCD
+Poor,False,True,False,Panic Disorder
+Excellent,True,True,True,Panic Disorder
+Poor,True,True,False,Stress
+Excellent,True,True,True,Panic Disorder
+Excellent,False,False,True,OCD
+Excellent,True,False,True,Depression
+Good,True,True,True,ADD
+Poor,True,True,False,Bipolar
+Excellent,True,True,True,ADD
+Poor,False,False,True,ADD
+Good,False,True,False,Panic Disorder
+Excellent,False,True,False,ADD
+Average,False,True,False,Panic Disorder
+Good,True,True,False,OCD
+Average,False,True,True,Bipolar
+Poor,False,True,False,PTSD
+Poor,True,True,False,Panic Disorder
+Good,True,True,False,Depression
+Poor,True,True,True,Stress
+Average,True,True,True,Bipolar
+Excellent,False,False,False,Depression
+Excellent,False,True,True,Panic Disorder
+Excellent,True,False,False,Bipolar
+Good,True,True,False,Panic Disorder
+Poor,False,True,False,OCD
+Average,True,True,False,Depression
+Poor,False,True,False,OCD
+Poor,False,True,True,Anxiety
+Poor,True,True,False,Depression
+Excellent,True,True,False,Bipolar
+Average,False,True,True,Anxiety
+Average,False,False,True,OCD
+Poor,False,False,True,OCD
+Excellent,False,True,False,Bipolar
+Excellent,True,False,True,Anxiety
+Average,False,True,False,ADD
+Excellent,False,True,True,PTSD
+Excellent,True,False,True,Stress
+Excellent,False,True,False,Bipolar
+Good,True,True,True,OCD
+Poor,False,True,False,Depression
+Average,True,False,False,Anxiety
+Average,False,False,False,Panic Disorder
+Good,False,True,True,PTSD
+Poor,False,True,False,Stress
+Average,True,True,False,Depression
+Excellent,False,True,False,Anxiety
+Average,False,True,True,PTSD
+Excellent,False,True,False,Bipolar
+Good,False,True,False,Panic Disorder
+Excellent,False,True,False,PTSD
+Average,False,True,True,Bipolar
+Average,False,True,True,Panic Disorder
+Average,False,False,True,Panic Disorder
+Good,False,True,True,ADD
+Good,False,True,True,Anxiety
+Poor,False,True,True,Panic Disorder
+Average,False,True,False,PTSD
+Excellent,False,True,True,Panic Disorder
+Good,True,True,False,Stress
+Average,False,True,True,PTSD
+Average,False,True,True,Anxiety
+Good,False,True,True,Depression
+Poor,False,True,True,Depression
+Good,False,False,False,PTSD
+Good,False,True,False,PTSD
+Excellent,False,True,True,Bipolar
+Excellent,False,True,True,Anxiety
+Poor,False,True,True,Bipolar
+Average,False,True,False,Stress
+Good,False,True,False,ADD
+Poor,True,True,False,Depression
+Excellent,True,True,False,Panic Disorder
+Good,False,True,False,Panic Disorder
+Average,True,True,True,OCD
+Excellent,False,True,True,OCD
+Excellent,False,True,False,Anxiety
+Excellent,False,True,False,Panic Disorder
+Poor,False,True,False,Anxiety
+Average,True,True,False,OCD
+Good,False,False,True,Anxiety
+Poor,False,True,False,Depression
+Poor,False,False,False,Stress
+Poor,True,True,True,Stress
+Excellent,False,True,False,Panic Disorder
+Average,True,True,False,Bipolar
+Poor,True,False,True,Depression
+Good,True,True,True,ADD
+Average,True,True,True,Anxiety
+Good,False,True,False,Anxiety
+Average,True,True,True,Panic Disorder
+Good,False,True,False,ADD
+Excellent,False,False,False,Bipolar
+Poor,False,False,True,Bipolar
+Good,True,True,False,Anxiety
+Average,False,False,False,Anxiety
+Poor,False,True,True,ADD
+Poor,False,True,True,Panic Disorder
+Average,True,True,False,Depression
+Good,False,True,False,ADD
+Excellent,False,False,True,Bipolar
+Excellent,False,True,True,ADD
+Good,True,True,True,ADD
+Poor,False,True,False,ADD
+Poor,True,True,True,Depression
+Poor,True,True,False,PTSD
+Poor,False,False,False,Anxiety
+Good,True,False,True,OCD
+Poor,True,True,False,Panic Disorder
+Average,True,True,True,ADD
+Poor,False,True,False,Panic Disorder
+Excellent,False,True,True,OCD
+Poor,False,True,False,PTSD
+Good,False,True,False,Anxiety
+Excellent,True,True,True,Bipolar
+Good,False,True,True,OCD
+Good,False,True,True,Panic Disorder
+Excellent,True,True,True,Panic Disorder
+Good,False,True,False,Panic Disorder
+Good,False,True,False,Bipolar
+Poor,True,False,True,OCD
+Average,True,True,False,Panic Disorder
+Good,True,False,False,Bipolar
+Good,True,True,False,ADD
+Good,False,True,True,Panic Disorder
+Poor,False,True,True,OCD
+Average,False,False,True,Bipolar
+Excellent,False,True,False,PTSD
+Poor,True,True,True,Depression
+Poor,False,True,True,Bipolar
+Average,False,True,True,Depression
+Average,False,True,False,Depression
+Poor,False,False,True,Anxiety
+Excellent,False,True,True,ADD
+Poor,False,True,True,PTSD
+Average,False,True,True,Depression
+Excellent,True,True,False,Stress
+Average,True,True,True,ADD
+Excellent,True,True,True,Depression
+Good,False,True,False,Bipolar
+Average,False,True,True,Depression
+Average,False,True,True,Bipolar
+Poor,False,False,False,Panic Disorder
+Average,False,True,True,Bipolar
+Average,False,True,True,Stress
+Good,True,True,True,Depression
+Average,True,True,True,Depression
+Good,False,True,False,OCD
+Good,False,True,False,ADD
+Good,False,True,False,OCD
+Good,True,False,True,Anxiety
+Excellent,True,True,True,Bipolar
+Poor,False,True,False,Stress
+Excellent,True,True,False,OCD
+Average,True,True,True,Depression
+Excellent,False,True,True,Anxiety
+Excellent,True,False,True,Stress
+Average,False,True,True,PTSD
+Average,True,True,True,Depression
+Average,True,True,True,Depression
+Excellent,False,True,False,Panic Disorder
+Excellent,False,True,False,PTSD
+Average,False,True,True,Bipolar
+Poor,False,True,True,Bipolar
+Poor,True,True,False,OCD
+Good,False,True,True,OCD
+Average,True,False,False,Depression
+Good,False,True,True,ADD
+Poor,False,False,False,Depression
+Good,False,True,True,OCD
+Average,False,True,True,PTSD
+Average,True,True,True,OCD
+Average,True,True,True,Depression
+Excellent,False,True,True,Stress
+Good,False,True,False,Depression
+Poor,False,True,True,Stress
+Poor,True,False,True,Stress
+Poor,False,True,False,Depression
+Excellent,True,True,False,ADD
+Excellent,False,True,False,ADD
+Average,False,False,False,Anxiety
+Poor,False,True,True,OCD
+Excellent,True,True,False,ADD
+Average,False,True,False,Bipolar
+Poor,False,True,False,Depression
+Good,False,False,True,Stress
+Average,False,True,True,Depression
+Excellent,False,True,True,OCD
+Excellent,False,False,False,PTSD
+Average,False,True,False,ADD
+Average,True,True,False,ADD
+Excellent,True,True,True,ADD
+Good,False,True,False,Stress
+Poor,True,True,False,Bipolar
+Good,False,True,True,Panic Disorder
+Average,False,True,False,Bipolar
+Good,False,True,True,ADD
+Excellent,False,True,False,Bipolar
+Average,False,False,False,PTSD
+Poor,False,True,False,ADD
+Excellent,True,True,False,Anxiety
+Excellent,False,True,False,Stress
+Poor,True,True,True,PTSD
+Poor,False,True,True,Panic Disorder
+Good,False,True,False,Stress
+Average,False,True,True,Panic Disorder
+Poor,True,True,True,ADD
+Poor,False,True,False,PTSD
+Average,False,True,False,ADD
+Poor,True,True,True,Panic Disorder
+Poor,True,False,True,Panic Disorder
+Good,True,True,True,PTSD
+Excellent,False,True,True,ADD
+Excellent,True,True,True,Anxiety
+Excellent,False,False,False,Stress
+Excellent,False,True,True,PTSD
+Poor,False,True,True,Anxiety
+Average,True,True,True,Depression
+Average,False,False,False,ADD
+Good,False,True,True,OCD
+Good,False,True,True,PTSD
+Poor,False,False,True,Bipolar
+Average,False,False,False,Anxiety
+Average,False,False,False,Anxiety
+Excellent,False,True,True,PTSD
+Poor,False,True,True,Panic Disorder
+Poor,True,True,True,Anxiety
+Excellent,True,True,False,Depression
+Poor,True,True,False,Anxiety
+Poor,False,True,True,OCD
+Good,False,True,True,OCD
+Average,False,True,True,Panic Disorder
+Poor,False,True,True,ADD
