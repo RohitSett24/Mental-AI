@@ -15,6 +15,8 @@ Train a machine learning model (Random Forest) to classify mental health conditi
 Allow user inputs via GUI (or CLI).
 Predict a student’s likely mental health condition based on lifestyle and school experiences.
 Recommend personalized, practical coping strategies based on prediction.
+
+
 💡 2. Motivation
 
 In today’s highly competitive and socially pressured school environments, boarding school students often experience mental health issues like anxiety, depression, and stress. However, due to stigma, lack of awareness, or limited resources, early detection and intervention rarely happen.
@@ -25,6 +27,7 @@ Bridge that gap with a smart, simple, and interactive tool.
 Empower students to understand their mental state.
 Provide helpful and stigma-free advice instantly — even before talking to a counselor.
 The goal is not to replace professionals but to encourage self-awareness and early action — in a way that feels safe, private, and approachable.
+
 
 🧪 3. Description of Usage of the Project
 
@@ -43,6 +46,8 @@ Based on the prediction, a custom recommendation is displayed immediately.
 🔒 Privacy:
 No sensitive personal data stored or shared.
 Users answer anonymously, which increases honesty and reliability.
+
+
 🤖 4. How AI is Enabling the System
 
 🧠 Machine Learning (AI) Role:
