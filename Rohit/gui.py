@@ -13,16 +13,16 @@ le_academic = joblib.load('le_academic.pkl')
 le_condition = joblib.load('le_condition.pkl')
 
 recommendations = {
-    'Depression': "Engage in regular exercise, maintain social connections, and seek support from friends/family. If symptoms persist, consult a mental health professional.",
-    'Anxiety': "Practice relaxation techniques (deep breathing, meditation). Maintain a routine, avoid excessive caffeine, and talk to someone you trust. Seek professional help if anxiety interferes with daily life.",
-    'Stress': "Try mindfulness, yoga, or physical activity. Break tasks into manageable steps and take regular breaks. Reach out to support groups or counselors if needed.",
-    'ADHD': "Establish routines, use reminders, and break tasks into smaller steps. Consider professional evaluation for therapy or medication if attention issues are persistent.",
-    'PTSD': "Seek trauma-informed counseling. Practice grounding techniques and connect with support groups. Professional therapy (CBT, EMDR) is highly recommended.",
-    'OCD': "Cognitive-behavioral therapy (CBT) is effective. Practice exposure and response prevention with professional guidance. Medication may help in some cases.",
-    'Bipolar Disorder': "Consult a psychiatrist for mood stabilizers and therapy. Maintain regular sleep and activity patterns. Avoid substance misuse and seek ongoing support.",
-    'Eating Disorder': "Seek help from a nutritionist and mental health professional. Join support groups and involve family in recovery. Early intervention is key.",
-    'Adjustment Disorder': "Talk to a counselor about recent changes. Practice stress management and self-care. Most cases resolve with time and support.",
-    'Normal': "Continue healthy habits: regular sleep, balanced diet, exercise, and social engagement. Monitor your well-being and seek help if you notice changes."
+    'Depression': "Spend time outside and do light exercise daily, keep a regular routine, and talk with supportive friends or family. Try to do small enjoyable activities even if your mood is low.",
+    'Anxiety': "Practice slow deep breathing, use grounding techniques like focusing on your senses, and limit caffeine. Keep a journal to track worries and notice what helps you feel calmer.",
+    'Stress': "Take short breaks to relax, organize your space, and try simple mindfulness or stretching exercises. Connect with others and do something fun each day.",
+    'ADHD': "Use reminders and lists to stay organized, break tasks into small steps, and keep a regular routine. Include daily physical activity to help with focus.",
+    'PTSD': "Practice grounding by focusing on your breath or surroundings, use creative outlets like drawing or writing, and spend time with people or pets who make you feel safe.",
+    'OCD': "Set aside a short time each day for worries, practice noticing thoughts without acting on them, and keep healthy daily habits like sleep and exercise.",
+    'Bipolar Disorder': "Stick to a regular sleep and meal schedule, track your moods, and practice gentle exercise. Reach out to trusted people if your mood changes.",
+    'Eating Disorder': "Eat regular meals and snacks, avoid labeling foods as good or bad, and practice self-kindness. Do activities you enjoy that don’t focus on food or appearance.",
+    'Adjustment Disorder': "Talk to someone you trust about changes in your life, take small positive steps each day, and write down things you’re grateful for. Give yourself time to adjust.",
+    'Normal': "Keep up healthy habits, stay connected with friends and family, and make time for activities you enjoy. Check in with your feelings and seek support if you need it."
 }
 
 class Particle:
