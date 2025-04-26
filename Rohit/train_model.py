@@ -7,7 +7,7 @@ from sklearn.metrics import classification_report, accuracy_score
 import joblib
 
 # Load your CSV
-df = pd.read_csv('boarding_school_mental_health_1000.csv')
+df = pd.read_csv('boarding_school_mental_health_2500.csv')
 
 # Encode categorical features
 le_academic = LabelEncoder()
