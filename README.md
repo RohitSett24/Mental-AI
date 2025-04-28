@@ -65,4 +65,4 @@ Pattern Recognition: ML model identifies hidden relationships between lifestyle 
 
 Decision Making: Instead of relying on rigid rules, the system learns from real student data to make decisions — adapting to various input combinations.
 
-Recommendation System: AI not only predicts but triggers context-specific advice. These aren't random tips — they’re tied directly to the model's classification.
+Recommendations System: AI not only predicts but triggers context-specific advice. These aren't random tips — they’re tied directly to the model's classification.
